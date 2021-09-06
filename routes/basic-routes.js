@@ -27,5 +27,5 @@ router.delete('/students/:id', function(req, res){
 
 module.exports = router;
 
-// Router() Vs express() methodhttps:
-// discuss.codecademy.com/t/are-router-and-express-methods-interchangeable/388387 (edited)
+// Router() Vs express() method
+// https://discuss.codecademy.com/t/are-router-and-express-methods-interchangeable/388387
